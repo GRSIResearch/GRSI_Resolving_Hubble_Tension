@@ -17,4 +17,6 @@ data_all.txt - Combination of all of the individual data_(Name).txt data
 
 Planck_Data.txt - TT scalar CMB power spectrum data from the Planck 2018 mission
 
+pymoo_Results - The Pareto front data used in the article
+
 If there are any questions or issues, please reach out to cmatt025@odu.edu
