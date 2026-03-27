@@ -216,7 +216,7 @@ def CDM_power_spectrum(l):
 if __name__ == "__main__":
     
     # Gets the CMB data from WMAP
-    file = open('Better CMB Data.txt')
+    file = open('Planck_Data.txt')
     lines = file.readlines()
     file.close()
     
